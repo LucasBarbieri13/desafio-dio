@@ -1,0 +1,5 @@
+Flex Container: Tag que envolve itens. É onde será aplicado "display: flex". Isso transforma todos os itens filhos. Pode colocada em qualquer tag parent.
+  - Propriedades relacionadas: display, flex-direction, flex-wrap, flex-flow, justify-content, align-itens, align-content.
+
+Flex Item: Elementos filhos diretos do Flex Container. Pode também se tornar um Flex Container.
+  - Propriedades relacionadas: flex-grow, flex-basis, flex-shrink, flex, order, align-self.
