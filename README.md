@@ -23,3 +23,7 @@ Flex Shrink;
 Flex;
 Order;
 Align Self.
+
+Projeto Integrador
+
+Neste projeto foi crriada uma landing page utilizando o flexbox para o posicionamento dos elementos.
